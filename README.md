@@ -37,9 +37,6 @@ SARIMAX modelling with seasonal diagnostics, auto‑ARIMA comparison, and clean 
 Regression modelling to predict box‑office performance using budget, duration, ratings, and phase.
 👉 [View the project](https://github.com/JamesCode-T/Data-analysis/blob/main/marvel.ipynb)
 
-### 📊 Data‑Science Utilities  
-Small Python tools and scripts demonstrating clean code, comments, and reusable functions.
-👉 [View the project](https://github.com/JamesCode-T/Data-analysis/tree/main)
 ---
 
 ## 📈 **What I’m Working On**
