@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm James 👋  
+Maths student | Data Analyst | Time‑Series Forecaster | Python Developer  
 
-<!--
-**JamesCode-T/JamesCode-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a mathematics student based in Surrey, specialising in **prediction, forecasting, and data analysis**.  
+I build clean, well‑documented projects using **Python**, **Pandas**, **NumPy**, **Matplotlib**, and advanced **time‑series models** such as **ARIMA**, **SARIMAX**, and decomposition methods.
 
-Here are some ideas to get you started:
+I’m currently developing a portfolio of forecasting projects across:
+- Energy demand & generation  
+- Housing markets  
+- Oil prices  
+- Movie box‑office prediction  
+- Regression‑based modelling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 **Tech Stack**
+- **Languages:** Python, SQL  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Forecasting:** ARIMA, SARIMAX, ADF tests, decomposition  
+- **Machine Learning:** Regression, feature engineering  
+- **Version Control:** Git, GitHub  
+- **Other:** Jupyter Notebooks, VS Code  
+
+---
+
+## 📂 **Pinned Projects**
+### 🔮 Time‑Series Forecasting: UK Energy Demand  
+Forecasting electricity demand using decomposition, differencing, ADF tests, and ARIMA/SARIMAX.  
+Includes full diagnostics, seasonal analysis, and future projections.
+
+### 🏠 Housing Market Forecasting (England Detached Prices)  
+SARIMAX modelling with seasonal diagnostics, auto‑ARIMA comparison, and clean visualisation.
+
+### 🛢 Oil Price Prediction  
+Log‑returns transformation, ARIMA modelling, and volatility analysis.
+
+### 🎬 MCU Box Office Regression  
+Regression modelling to predict box‑office performance using budget, duration, ratings, and phase.
+
+### 📊 Data‑Science Utilities  
+Small Python tools and scripts demonstrating clean code, comments, and reusable functions.
+
+---
+
+## 📈 **What I’m Working On**
+- Building a forecasting‑based business concept  
+- Expanding my GitHub portfolio with more real‑world datasets  
+- Improving regression modelling and feature engineering  
+- Creating visual dashboards for time‑series results  
+
+---
+
+## 📫 **Contact**
+- **Email:** your-email-here  
+- **LinkedIn:** your-linkedin-here  
+- **Location:** Reigate, Surrey, UK  
+
+---
