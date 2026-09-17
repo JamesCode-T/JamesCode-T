@@ -51,8 +51,8 @@ Small Python tools and scripts demonstrating clean code, comments, and reusable 
 ---
 
 ## 📫 **Contact**
-- **Email:** your-email-here  
-- **LinkedIn:** your-linkedin-here  
-- **Location:** Reigate, Surrey, UK  
+- **Email:** jt1818watling@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/james-thomason-20919a1a9  
+- **Location:** Surrey, UK  
 
 ---
