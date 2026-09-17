@@ -31,19 +31,15 @@ Includes full diagnostics, seasonal analysis, and future projections.
 
 ### 🏠 Housing Market Forecasting (England Detached Prices)  
 SARIMAX modelling with seasonal diagnostics, auto‑ARIMA comparison, and clean visualisation.
-👉 [View the project]
-
-### 🛢 Oil Price Prediction  
-Log‑returns transformation, ARIMA modelling, and volatility analysis.
-👉 [View the project]
+👉 [View the project](https://github.com/JamesCode-T/Time-Series/blob/main/housing.ipynb)
 
 ### 🎬 MCU Box Office Regression  
 Regression modelling to predict box‑office performance using budget, duration, ratings, and phase.
-👉 [View the project]
+👉 [View the project](https://github.com/JamesCode-T/Data-analysis/blob/main/marvel.ipynb)
 
 ### 📊 Data‑Science Utilities  
 Small Python tools and scripts demonstrating clean code, comments, and reusable functions.
-
+👉 [View the project](https://github.com/JamesCode-T/Data-analysis/tree/main)
 ---
 
 ## 📈 **What I’m Working On**
