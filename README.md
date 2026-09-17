@@ -27,15 +27,19 @@ I’m currently developing a portfolio of forecasting projects across:
 ### 🔮 Time‑Series Forecasting: UK Energy Demand  
 Forecasting electricity demand using decomposition, differencing, ADF tests, and ARIMA/SARIMAX.  
 Includes full diagnostics, seasonal analysis, and future projections.
+👉 [View the project](https://github.com/JamesCode-T/Time-Series/blob/main/gov_energy.ipynb)
 
 ### 🏠 Housing Market Forecasting (England Detached Prices)  
 SARIMAX modelling with seasonal diagnostics, auto‑ARIMA comparison, and clean visualisation.
+👉 [View the project]
 
 ### 🛢 Oil Price Prediction  
 Log‑returns transformation, ARIMA modelling, and volatility analysis.
+👉 [View the project]
 
 ### 🎬 MCU Box Office Regression  
 Regression modelling to predict box‑office performance using budget, duration, ratings, and phase.
+👉 [View the project]
 
 ### 📊 Data‑Science Utilities  
 Small Python tools and scripts demonstrating clean code, comments, and reusable functions.
